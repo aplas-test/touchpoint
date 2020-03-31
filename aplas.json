@@ -18,7 +18,29 @@
       "end_of_life": "3/10/19",
       "months_to_renew_support": "18",
       "sme_email": "Lenci.Bank@memento.net.au",
-      "investment_number": "45"
+      "investment_number": "45",
+      "integrations": [
+        {
+          "id": "int-327",
+          "name": "INT-327",
+          "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
+          "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.",
+          "sourceApplicationId": "touchpoint",
+          "targetApplicationId": "redhold",
+          "logical_server": "LEG",
+          "status_color": "#00FFFF",
+          "pattern": "File Delivery",
+          "golive_date": "29/10/03",
+          "sme_name": "Lee Brelsford",
+          "decom_date": "15/11/17",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "ToBeDecom",
+          "sme_email": "lbrelsfordl@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "17/12/14"
+        }
+      ]
     }
   ]
 }
