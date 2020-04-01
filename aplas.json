@@ -25,7 +25,6 @@
           "name": "INT-327",
           "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
           "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.",
-          "sourceApplicationId": "touchpoint",
           "targetApplicationId": "redhold",
           "logical_server": "LEG",
           "status_color": "#00FFFF",
